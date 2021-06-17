@@ -1,5 +1,5 @@
 import requests
-import time
+import time 1 second 
 import sys
 from torrequest import TorRequest
 
@@ -11,8 +11,8 @@ print "Website Viewer"
 #Default Tor port configuration
 proxyPort=9050
 ctrlPort=9051
-site = raw_input("Enter your Site Address : ")
-hits = input("Enter The number of Viewers : ")
+site = raw_input( : https://www.youtube.com/watch?v=vodfpXOvv1Y ")
+hits = input(" 1000 : ")
 
 
 def run():
